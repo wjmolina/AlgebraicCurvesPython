@@ -13,7 +13,7 @@ This repo comprises four files:
      - separable Bernstein images of size 513 by 513 up to degree 4 (and some of degree 5, ..., 8), and
      - non-separable Bernstein images of size 1025 by 1025 up to degree 4.
  - `examples.py`: This file contains one reconstruction of each of the three methods for illustration purposes.
- - `requirements`: This file contains the repo dependencies. We recommend
+ - `requirements.txt`: This file contains the repo dependencies. We recommend
      - creating a virtual environment `$ python -m venv .venv`,
      - activating it `$ source .venv/bin/activate` (in bash/zsh), and
      - installing the repo dependencies `$ pip install -r requirements.txt`.

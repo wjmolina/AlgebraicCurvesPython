@@ -18,6 +18,6 @@ This repo comprises four files:
      - activating it `$ source .venv/bin/activate` (in bash/zsh), and
      - installing the repo dependencies `$ pip install -r requirements.txt`.
 
-The work in this repo is summarized in [this work](https://www.dropbox.com/s/y6v2d0bd87qibbv/wjm_dissertation_revised.pdf?dl=0).
+The work in this repo is summarized in [my dissertation](https://www.dropbox.com/s/y6v2d0bd87qibbv/wjm_dissertation_revised.pdf?dl=0).
 
 ![Example Reconstruction](https://github.com/wjmolina/AlgebraicCurvesPython/blob/main/example_reconstruction.png?raw=true)
